@@ -1,4 +1,4 @@
-name: FreedomHairAsia
+name: Freedom Hair Asia
 favicon: null
 layout_spectrum: 0.2918293084949255
 typography_spectrum: 0.7525620693340898
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.3949546830262989
-  lightness: 0.0076020932756364346
-  saturation: 0.9644154442939907
-  rhythmicContrast: 0.506071318173781
+    - '#ffffff'
+    - '#000000'
+    - '#50b546'
+    - '#6f6f6f'
+    - '#9b9b9b'
+  brandStrength: 0.375
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
